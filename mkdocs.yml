@@ -131,3 +131,11 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.critic
+
+plugins:
+  - git-committers:
+      repository: ehsan18t/unilink-docs
+      branch: main
+  - git-revision-date-localized:
+      repository: ehsan18t/unilink-docs
+      branch: main
