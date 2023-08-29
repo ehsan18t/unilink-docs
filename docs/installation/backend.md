@@ -20,7 +20,7 @@
     ```
     pip install -r requirements.txt
     ```
- - success "add `.env.local` file with following environment variables"
+ - Add `.env.local` file with following environment variables
    ```.env title=".env.local"
    DJANGO_SECRET_KEY={==<Django Secret Key>==}
    DEBUG=True
