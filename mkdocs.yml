@@ -1,6 +1,23 @@
 site_name: UniLink Docs
 site_url: https://unilink-docs.pages.dev
 
+# Pages
+nav:
+  - Home:
+      - Overview: index.md
+      - Tools Used: tools.md
+      - About Us: about.md
+  - Installation:
+      - Backend Setup Guide: installation/backend.md
+      - Frontend Setup Guide: installation/frontend.md
+  - API Documentations:
+      - User: api/user.md
+      - University: api/university.md
+  # - Installation: installation.md
+  # - Usage: usage.md
+  # - Contributing: contributing.md
+  # - License: license.md
+
 # Repository
 repo_name: ehsan18t/unilink
 repo_url: https://github.com/ehsan18t/unilink
@@ -8,31 +25,35 @@ repo_url: https://github.com/ehsan18t/unilink
 # Footer
 copyright: Copyright &copy; 2023 Team Showstopper
 
+extra_css:
+  - assets/stylesheets/extra.css
+
 # Theme
 theme:
   name: material
-  favicon: /assets/images/logo.svg
-  logo: /assets/images/logo.svg
+  favicon: assets/images/logo.svg
+  logo: assets/images/logo.svg
   font:
     text: Roboto
     code: Roboto Mono
   palette:
-    - scheme: slate
-      primary: indigo
-      accent: indigo
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
     - scheme: default
       primary: indigo
       accent: indigo
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
   features:
     - announce.dismiss
-    - content.action.edit
-    - content.action.view
+    # - content.action.edit
+    # - content.action.view
     - content.code.annotate
     - content.code.copy
     - content.code.select
@@ -112,3 +133,14 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.tilde
+  - pymdownx.critic
+
+plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
+  - git-committers:
+      repository: ehsan18t/unilink-docs
+      branch: main
+  - git-revision-date-localized:
+      repository: ehsan18t/unilink-docs
+      branch: main
