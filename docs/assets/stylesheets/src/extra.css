@@ -1,34 +1,38 @@
 @tailwind components;
 @tailwind utilities;
 
+.pull-classes-from-util-to-here {
+  @apply text-4xl;
+}
+
 small {
-  font-size: 0.65rem;
+  @apply text-xs;
 }
 
 .contact {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  justify-content: center;
-  align-items: center;
+  @apply flex flex-col gap-2 items-center justify-start;
+}
+
+.contact > img {
+  @apply rounded-full h-48 w-48 shadow-lg;
+}
+
+.contact > section {
+  @apply flex flex-col justify-center items-center;
+}
+
+.contact-container {
+  @apply flex flex-col justify-center items-center shadow-lg rounded-xl p-6;
+}
+
+.contact name {
+  @apply text-xl font-bold;
+}
+
+.contact > sub {
+  @apply text-center text-xs;
 }
 
 .grid-container {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 items for big screens */
-  gap: 20px; /* Adjust the gap between items */
-}
-
-/* For tablets (adjust the breakpoint as needed) */
-@media screen and (max-width: 768px) {
-  .grid-container {
-    grid-template-columns: repeat(2, 1fr); /* 2 items for tablets */
-  }
-}
-
-/* For mobile devices (adjust the breakpoint as needed) */
-@media screen and (max-width: 480px) {
-  .grid-container {
-    grid-template-columns: 1fr; /* 1 item for mobile devices */
-  }
+  @apply grid grid-cols-1 md:grid-cols-2 gap-4 gap-y-8;
 }
