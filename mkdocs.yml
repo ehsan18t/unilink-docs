@@ -1,6 +1,17 @@
 site_name: UniLink Docs
 site_url: https://unilink-docs.pages.dev
 
+# Pages
+nav:
+  - Overview: index.md
+  - API Documentations:
+      - User: api/user.md
+      - University: api/University.md
+  # - Installation: installation.md
+  # - Usage: usage.md
+  # - Contributing: contributing.md
+  # - License: license.md
+
 # Repository
 repo_name: ehsan18t/unilink
 repo_url: https://github.com/ehsan18t/unilink
