@@ -10,15 +10,15 @@ nav:
   - Installation:
       - Backend Setup Guide: installation/backend.md
       - Frontend Setup Guide: installation/frontend.md
-  - API Documentations:
-      - User: api/user.md
-      - University: api/university.md
-      - Department: api/department.md
-      - Course: api/course.md
-      - Forum: api/forum.md
   - Testing:
       - Backend Testing: testing/backend.md
       - Frontend Testing: testing/frontend.md
+  - API Documentations:
+      - User API: api/user.md
+      - University API: api/university.md
+      - Department API: api/department.md
+      - Course API: api/course.md
+      - Forum API: api/forum.md
   - Conclusion:
       - Future Plan: future.md
 
