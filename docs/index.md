@@ -1,10 +1,8 @@
-# Overview
-
 ## Problems
 
-Many universities lack official community websites primarily due to the sub-stantial resources and funding required for their development and ongoing maintenance. Building and sustaining a community site entails significant costs, including technological infrastructure, personnel, and regular updates. For most universities, investing in such a system poses a considerable financial burden,especially considering that there may not be a direct financial return on investment.
-So we are trying to develop a platform where university can register and create their own forum and official community. Using this platform the university admin can monitor the whole system without any kind of hassel and also use it in a easy manner. One student/faculty can post imporatnt stufs and also  share necessary information here. As social media does create a huge level of distraction our platform will also be able to avoid that distraction and keep the concentration on the necessary things. 
-
+<justify>
+Many universities lack official community websites primarily due to the substantial resources and funding required for their development and ongoing maintenance. Building and sustaining a community site entails significant costs, including technological infrastructure, personnel, and regular updates. For most universities, investing in such a system poses a considerable financial burden,especially considering that there may not be a direct financial return on investment. So we are trying to develop a platform where university can register and create their own forum and official community. Using this platform the university admin can monitor the whole system without any kind of hassle and also use it in a easy manner. One student/faculty can post important stuff and also  share necessary information here. As social media does create a huge level of distraction our platform will also be able to avoid that distraction and keep the concentration on the necessary things. 
+</justify>
 
 ## Features to Solve Problems
 
