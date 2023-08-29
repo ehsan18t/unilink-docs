@@ -21,7 +21,7 @@ Many universities lack official community websites primarily due to the substant
     We are excited to introduce ”Classroom”, a cool feature that functions as a faculty-managed and controlled group chat. Each course section automatically forms its own designated group, eliminating the previous hassle of manually collecting IDs to create groups. This streamlined approach enhances collaboration and communication within the academic community.
     </justify>
 
-???A abstract "Forum"
+??? abstract "Forum"
     <justify>
     Naturally, forums are an integral part of our community app. We provide diverse forums where students can freely share their thoughts, ideas, and experiences. Each forum is moderated by a faculty member, ensuring that the content remains relevant and appropriate.
     </justify>
