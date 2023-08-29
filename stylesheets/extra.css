@@ -1,0 +1,6 @@
+/* Apply text justification to all paragraphs */
+justify {
+  text-align: justify;
+  display: flex;
+  justify-content: center;
+}
