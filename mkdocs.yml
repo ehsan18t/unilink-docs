@@ -23,7 +23,7 @@ repo_url: https://github.com/ehsan18t/unilink
 copyright: Copyright &copy; 2023 Team Showstopper
 
 extra_css:
-  - stylesheets/extra.css
+  - assets/stylesheets/extra.css
 
 # Theme
 theme:
