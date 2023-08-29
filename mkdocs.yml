@@ -136,6 +136,8 @@ markdown_extensions:
   - pymdownx.critic
 
 plugins:
+  - search:
+      separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
   - git-committers:
       repository: ehsan18t/unilink-docs
       branch: main
