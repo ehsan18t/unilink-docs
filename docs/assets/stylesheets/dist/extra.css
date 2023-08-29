@@ -1,20 +1,13 @@
-/* Apply text justification to all paragraphs */
-justify {
-  text-align: justify;
+.flex {
   display: flex;
-  justify-content: center;
 }
 
-gap-l {
-  margin-left: 0.5rem;
-}
-
-gap-r {
-  margin-right: 0.5rem;
+.grid {
+  display: grid;
 }
 
 .rounded-full {
-  border-radius: 100%;
+  border-radius: 9999px;
 }
 
 small {
@@ -31,20 +24,26 @@ small {
 
 .grid-container {
   display: grid;
-  grid-template-columns: repeat(4, 1fr); /* 4 items for big screens */
-  gap: 20px; /* Adjust the gap between items */
+  grid-template-columns: repeat(4, 1fr);
+  /* 4 items for big screens */
+  gap: 20px;
+  /* Adjust the gap between items */
 }
 
 /* For tablets (adjust the breakpoint as needed) */
+
 @media screen and (max-width: 768px) {
   .grid-container {
-    grid-template-columns: repeat(2, 1fr); /* 2 items for tablets */
+    grid-template-columns: repeat(2, 1fr);
+    /* 2 items for tablets */
   }
 }
 
 /* For mobile devices (adjust the breakpoint as needed) */
+
 @media screen and (max-width: 480px) {
   .grid-container {
-    grid-template-columns: 1fr; /* 1 item for mobile devices */
+    grid-template-columns: 1fr;
+    /* 1 item for mobile devices */
   }
 }
