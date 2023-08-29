@@ -1,5 +1,3 @@
-# Backend Setup Guide
-
 ## Setup Environment
  - [x] Install [Python >= 3.10](https://www.python.org/downloads/release/python-3100/){:target="_blank"}
  - [x] Clone this repository: 

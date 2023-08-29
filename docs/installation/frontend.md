@@ -1,4 +1,4 @@
-# Frontend Setup Guide
+## Setup Environment
  -  Install [NodeJS >= 18.17.1 LTS](https://nodejs.org/en/download/){:target="_blank"}
  -  Clone this repository: 
     ```

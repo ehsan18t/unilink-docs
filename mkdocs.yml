@@ -5,8 +5,8 @@ site_url: https://unilink-docs.pages.dev
 nav:
   - Overview: index.md
   - Installation:
-      - Backend: installation/backend.md
-      - Frontend: installation/frontend.md
+      - Backend Setup Guide: installation/backend.md
+      - Frontend Setup Guide: installation/frontend.md
   - API Documentations:
       - User: api/user.md
       - University: api/university.md
