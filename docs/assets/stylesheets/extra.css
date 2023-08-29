@@ -4,3 +4,13 @@ justify {
   display: flex;
   justify-content: center;
 }
+
+center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+gap-l {
+  margin-left: 0.5rem;
+}

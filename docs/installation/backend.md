@@ -1,53 +1,53 @@
 ## Setup Environment
- - [x] Install [Python >= 3.10](https://www.python.org/downloads/release/python-3100/){:target="_blank"}
- - [x] Clone this repository: 
+ - Install [Python >= 3.10](https://www.python.org/downloads/release/python-3100/){:target="_blank"}
+ - Clone this repository: 
     ```
     git clone https://github.com/ehsan18t/unilink-server.git
     ```
- - [x] Open project folder in terminal
+ - Open project folder in terminal
     ```
     cd unilink-server
     ```
- - [x] Create `.venv` 
+ - Create `.venv` 
     ```
     python -m venv .venv
     ```
- - [x] Activate `venv` 
+ - Activate `venv` 
     ```
     .venv\Scripts\activate.bat
     ```
- - [x] Install required packages
+ - Install required packages
     ```
     pip install -r requirements.txt
     ```
- - [x] add `.env.local` file with following environment variables
-    ```
-    DJANGO_SECRET_KEY={==<Django Secret Key>==}
-    DEBUG=True
-    DOMAIN=localhost:3000
-    SERVER=http://localhost:8000
-    SITE_NAME=UniLink
-    EMAIL_HOST_USER={==<Email That will be responsible for sending emails>==}
-    EMAIL_HOST_PASSWORD={==<App Password of the Email>==}
-    AUTH_COOKIE_SECURE=False
-    ```
-    - [Obtain Django Secret Key](#obtain-django-secret-key){ .md-button } [Obtain Gmail App Passwords](#obtain-gmail-app-password){ .md-button }
- - [x] Migrate database
+ - success "add `.env.local` file with following environment variables"
+   ```.env title=".env.local"
+   DJANGO_SECRET_KEY={==<Django Secret Key>==}
+   DEBUG=True
+   DOMAIN=localhost:3000
+   SERVER=http://localhost:8000
+   SITE_NAME=UniLink
+   EMAIL_HOST_USER={==<Email That will be responsible for sending emails>==}
+   EMAIL_HOST_PASSWORD={==<App Password of the Email>==}
+   AUTH_COOKIE_SECURE=False
+   ```
+      <center> [Obtain Django Secret Key](#obtain-django-secret-key){ .md-button } <gap-l> [Obtain Gmail App Passwords](#obtain-gmail-app-password){ .md-button } </gap-l> </center>
+ - Migrate database
     ```
     python manage.py makemigrations
     ```
     ```
     python manage.py migrate
     ```
- - [x] Create admin account
+ - Create admin account
     ```
     python manage.py createsuperuser
     ```
- - [x] Run the server
+ - Run the server
     ```
     python manage.py runserver
     ```
- - [x] Now you should be able to see the server at [http://localhost:8000](http://localhost:8000)
+ - Now you should be able to see the server at [http://localhost:8000](http://localhost:8000)
 
 <br>
 
