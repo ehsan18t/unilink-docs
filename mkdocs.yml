@@ -14,13 +14,7 @@ nav:
       - User: api/user.md
       - University: api/university.md
   - Conclusion:
-      - Future Plan: future.md  
-
-
-  # - Installation: installation.md
-  # - Usage: usage.md
-  # - Contributing: contributing.md
-  # - License: license.md
+      - Future Plan: future.md
 
 # Repository
 repo_name: ehsan18t/unilink
