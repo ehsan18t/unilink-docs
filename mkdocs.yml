@@ -13,6 +13,12 @@ nav:
   - API Documentations:
       - User: api/user.md
       - University: api/university.md
+      - Department: api/department.md
+      - Course: api/course.md
+      - Forum: api/forum.md
+  - Testing:
+      - Backend Testing: testing/backend.md
+      - Frontend Testing: testing/frontend.md
   - Conclusion:
       - Future Plan: future.md
 
