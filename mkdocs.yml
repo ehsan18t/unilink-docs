@@ -3,7 +3,10 @@ site_url: https://unilink-docs.pages.dev
 
 # Pages
 nav:
-  - Overview: index.md
+  - Home:
+      - Overview: index.md
+      - Tools Used: tools.md
+      - About Us: about.md
   - Installation:
       - Backend Setup Guide: installation/backend.md
       - Frontend Setup Guide: installation/frontend.md
