@@ -6,6 +6,7 @@ nav:
   - Home:
       - Overview: index.md
       - Tools Used: tools.md
+      - Project Links: project-links.md
       - About Us: about.md
   - User Manual:
       - Student Guide:
@@ -36,7 +37,7 @@ nav:
       - Backend Setup Guide: installation/backend.md
       - Frontend Setup Guide: installation/frontend.md
   - Testing:
-      - Test Cases: testing/backend.md
+      - Unit Testing: testing/unit-testing.md
   - API Documentations:
       - User API: api/user.md
       - University API: api/university.md
@@ -58,6 +59,8 @@ extra_css:
 
 # Theme
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   favicon: assets/images/logo.svg
   logo: assets/images/logo.svg
