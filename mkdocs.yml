@@ -9,30 +9,11 @@ nav:
       - Project Links: project-links.md
       - About Us: about.md
   - User Manual:
-      - Student Guide:
-          - Login: user-manual/student/login.md
-          - Register: user-manual/student/register.md
-          - Profile: user-manual/student/profile.md
-          - University: user-manual/student/university.md
-          - Department: user-manual/student/department.md
-          - Course: user-manual/student/course.md
-          - Forum: user-manual/student/forum.md
-      - Faculty Manual:
-          - Login: user-manual/faculty/login.md
-          - Register: user-manual/faculty/register.md
-          - Profile: user-manual/faculty/profile.md
-          - University: user-manual/faculty/university.md
-          - Department: user-manual/faculty/department.md
-          - Course: user-manual/faculty/course.md
-          - Forum: user-manual/faculty/forum.md
       - Admin Guide:
-          - Login: user-manual/admin/login.md
-          - Register: user-manual/admin/register.md
-          - Profile: user-manual/admin/profile.md
-          - University: user-manual/admin/university.md
-          - Department: user-manual/admin/department.md
-          - Course: user-manual/admin/course.md
-          - Forum: user-manual/admin/forum.md
+          - Overview: user-manual/admin/overview.md
+          - Department Management: user-manual/admin/department.md
+      - Student Guide:
+          - Students: user-manual/student/student.md
   - Installation:
       - Backend Setup Guide: installation/backend.md
       - Frontend Setup Guide: installation/frontend.md
