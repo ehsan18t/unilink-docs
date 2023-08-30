@@ -6,6 +6,7 @@ nav:
   - Home:
       - Overview: index.md
       - Tools Used: tools.md
+      - Project Links: project-links.md
       - About Us: about.md
   - User Manual:
       - Student Guide:
