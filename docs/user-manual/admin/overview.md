@@ -9,10 +9,13 @@ As the designated university administrator, you hold a crucial role in maintaini
 2. **Course Management**
     - Discover how to oversee the creation, scheduling, and updating of courses to provide students with the best possible learning experiences.
 
-3. **Faculty Management**
+3. **Section Management**
+    - Discover how to oversee the creation, scheduling, and updating of courses to provide students with the best possible learning experiences.
+
+4. **Faculty Management**
     - Understand the tools at your disposal for managing faculty members, including hiring, onboarding, and maintaining up-to-date records.
 
-4. **Forum Management**
+5. **Forum Management**
     - *Learn how to manage the university's forum, including moderating posts, creating new categories, and managing user accounts.*
 
 
