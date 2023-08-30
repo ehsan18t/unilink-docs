@@ -10,13 +10,12 @@ Open your web browser and visit the UniLink website.
 
 On the UniLink homepage, locate and click on the "Register" button to begin the registration process.
 
-![File](testoutput/unit-test-forum.png)
+
 
 **Step 3** *Providing Necessary Information*
 
 You'll be directed to the registration form. Fill in the required information:
 
-![File](testoutput/unit-test-forum.png)
 
 **Step 4** *Verify Your Email Address*
 
@@ -32,7 +31,7 @@ Click the "Register" or "Sign Up" button to finalize your registration. You may 
 
 On the UniLink homepage, look for the "Login" option. Click on it to access the login page.
 
-![File](testoutput/unit-test-forum.png)
+
 
 **Step 2** *Enter Your Credentials*
 
@@ -64,3 +63,37 @@ ou'll be directed to a form where you can fill in details about your new forum. 
 * **Category**: Choose the appropriate category or topic that best represents your forum's subject matter.
 * **Description**: Write a brief description that explains the purpose or focus of your forum.
 
+
+**Step 3** *Preview and Confirm*
+
+Before finalizing, review the information you've provided to ensure accuracy. If everything looks correct, click the "Add Forum" button to create your new forum.
+
+
+**Step 4** *Access Your New Forum*
+
+Congratulations! Your new forum is now created. You can access it from your UniLink dashboard or homepage. Start posting discussions, inviting members, and moderating content as needed to build your forum community.
+
+
+##  Creating a Post on UniLink
+
+**Step 1** *Access the Forum*
+
+You can usually find a list of forums on the UniLink homepage or in the forum section of the platform.
+
+
+**Step 2** *Start a New Post*
+
+Inside the forum, look for a button or link that says "Create Post" . Click on it to start composing your post.
+
+
+**Step 3** *Compose Your Post*
+
+You'll be directed to a post creation page with several fields:
+
+* Title: Enter a descriptive title that summarizes the content of your post.
+
+* Content: Write the main body of your post. You can format text, add images, and include links as needed.
+
+**Step 4** *Publish Your Post*
+
+Once you are satisfied with your post, click the "Post" button to share it with the forum community.
