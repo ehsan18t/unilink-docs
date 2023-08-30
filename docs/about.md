@@ -83,9 +83,9 @@ We are a team of four dedicated individuals who collaborated on an exciting soft
 
 <p markdown>
 
-[:fontawesome-brands-github:{: .text-xl}](https://github.com/ehsan18t){:target="_blank"}
+[:fontawesome-brands-github:{: .text-xl}](https://github.com/mdashik313){:target="_blank"}
 [:fontawesome-brands-telegram:{: .text-xl}](https://t.me/ehsan18t){:target="_blank"}
-[:fontawesome-brands-discord:{: .text-xl}](https://discord.com/users/xcarl3t){:target="_blank"}
+[:fontawesome-brands-discord:{: .text-xl}](https://discord.com/users/m_ashik111){:target="_blank"}
 
 </p>
 
