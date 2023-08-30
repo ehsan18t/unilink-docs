@@ -4,7 +4,7 @@
 In future we have a very big plan working with our this project. As we didn't complete that much in this session we are hoping to develop this project in our 
 **Final Year Design Project** and take it to the next step and deploy this project in real life so that the problems we have addressed can be solved throughout our project. 
 
-**Tentetive Fetures for future**
+**Tentative Features for Future**
 
 ??? Alumni-Section
     <justify>

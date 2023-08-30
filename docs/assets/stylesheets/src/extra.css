@@ -1,0 +1,42 @@
+@tailwind components;
+@tailwind utilities;
+
+.pull-classes-from-util-to-here {
+  @apply text-4xl;
+}
+
+justify {
+  @apply text-justify;
+}
+
+small {
+  @apply text-xs;
+}
+
+.contact {
+  @apply flex flex-col gap-2 items-center justify-start;
+}
+
+.contact > img {
+  @apply rounded-full h-48 w-48 shadow-lg;
+}
+
+.contact > section {
+  @apply flex flex-col justify-center items-center;
+}
+
+.contact-container {
+  @apply flex flex-col justify-center items-center shadow-lg rounded-xl p-6;
+}
+
+.contact name {
+  @apply text-xl font-bold;
+}
+
+.contact > sub {
+  @apply text-center text-xs;
+}
+
+.grid-container {
+  @apply grid grid-cols-1 md:grid-cols-2 gap-4 gap-y-8;
+}

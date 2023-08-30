@@ -31,7 +31,7 @@
    EMAIL_HOST_PASSWORD={==<App Password of the Email>==}
    AUTH_COOKIE_SECURE=False
    ```
-      <center> [Obtain Django Secret Key](#obtain-django-secret-key){ .md-button } <gap-l> [Obtain Gmail App Passwords](#obtain-gmail-app-password){ .md-button } </gap-l> </center>
+      <center> [Obtain Django Secret Key](#obtain-django-secret-key){ .md-button } [Obtain Gmail App Passwords](#obtain-gmail-app-password){ .md-button } </center>
  - Migrate database
     ```
     python manage.py makemigrations
