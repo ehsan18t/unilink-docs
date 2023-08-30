@@ -159,6 +159,8 @@ plugins:
   - git-committers:
       repository: ehsan18t/unilink-docs
       branch: main
+      enabled: !ENV [CI, false]
   - git-revision-date-localized:
       repository: ehsan18t/unilink-docs
       branch: main
+      enabled: !ENV [CI, false]
