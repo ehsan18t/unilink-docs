@@ -37,7 +37,7 @@ nav:
       - Backend Setup Guide: installation/backend.md
       - Frontend Setup Guide: installation/frontend.md
   - Testing:
-      - Test Cases: testing/backend.md
+      - Unit Testing: testing/unit-testing.md
   - API Documentations:
       - User API: api/user.md
       - University API: api/university.md
