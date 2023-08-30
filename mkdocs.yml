@@ -16,6 +16,8 @@ nav:
           - Section Management: user-manual/admin/section.md
           - Faculty Management: user-manual/admin/faculty.md
           - Forum Management: user-manual/admin/forum.md
+      - Faculty Guide:
+          - Classroom: user-manual/faculty/classroom.md
       - Student Guide:
           - Students: user-manual/student/student.md
   - Installation:
