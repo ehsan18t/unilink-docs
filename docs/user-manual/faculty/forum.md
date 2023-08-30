@@ -1,3 +1,7 @@
+### Introduction to Faculty Forum Management
+
+Faculty Forum Management empowers instructors to facilitate discussions, engage with students, and oversee forum activities within the university's academic community. Faculty members can create, manage, and participate in forums relevant to their courses.
+
 ### Creating Categories and Forums
 
 The Forum Management feature allows both administrators and faculty members to create categories and forums to facilitate organized discussions. Categories serve as high-level topics, while forums are specific discussion areas within those categories.
@@ -6,7 +10,7 @@ The Forum Management feature allows both administrators and faculty members to c
 
 To create a new category for discussions, follow these steps:
 
-1. Log in to the administrative dashboard using your credentials.
+1. Log in to the faculty account using your credentials.
 2. Forum posts, category and forum list will be shown on the home page.
 3. Look for the option to "Create New Category" and select it.
 
@@ -45,3 +49,4 @@ Forums are conveniently displayed on the forum home dashboard, with categories o
 ## Conclusion
 
 Efficient forum management fosters meaningful discussions and knowledge sharing within the academic community. By creating categories and forums with informative names and descriptions, you enable users to engage in productive conversations and enhance collaboration among faculty and students.
+

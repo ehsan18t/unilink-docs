@@ -18,6 +18,7 @@ nav:
           - Forum Management: user-manual/admin/forum.md
       - Faculty Guide:
           - Classroom: user-manual/faculty/classroom.md
+          - Forum: user-manual/faculty/forum.md
       - Student Guide:
           - Students: user-manual/student/student.md
   - Installation:
