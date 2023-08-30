@@ -58,6 +58,8 @@ extra_css:
 
 # Theme
 theme:
+  icon:
+    repo: fontawesome/brands/github
   name: material
   favicon: assets/images/logo.svg
   logo: assets/images/logo.svg
