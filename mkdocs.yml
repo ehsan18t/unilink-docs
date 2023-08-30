@@ -12,6 +12,7 @@ nav:
       - Admin Guide:
           - Overview: user-manual/admin/overview.md
           - Department Management: user-manual/admin/department.md
+          - Course Management: user-manual/admin/course.md
       - Student Guide:
           - Students: user-manual/student/student.md
   - Installation:
