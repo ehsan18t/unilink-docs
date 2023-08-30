@@ -42,9 +42,9 @@ We are a team of four dedicated individuals who collaborated on an exciting soft
 
 <p markdown>
 
-[:fontawesome-brands-github:{: .text-xl}](https://github.com/ehsan18t){:target="_blank"}
-[:fontawesome-brands-telegram:{: .text-xl}](https://t.me/ehsan18t){:target="_blank"}
-[:fontawesome-brands-discord:{: .text-xl}](https://discord.com/users/xcarl3t){:target="_blank"}
+[:fontawesome-brands-github:{: .text-xl}](hhttps://github.com/Syed-Eftasum-Alam){:target="_blank"}
+[:fontawesome-brands-facebook:{: .text-xl}](https://www.facebook.com/syed.sazin/){:target="_blank"}
+[:fontawesome-brands-linkedin:{: .text-xl}](https://www.linkedin.com/in/syed-eftasum-alam/){:target="_blank"}
 
 </p>
 
