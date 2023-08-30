@@ -40,3 +40,13 @@ small {
 .grid-container {
   @apply grid grid-cols-1 md:grid-cols-2 gap-4 gap-y-8;
 }
+
+.project {
+  border: 1px solid;
+  @apply border-gray-300 hover:shadow-lg rounded pb-4 px-10 m-4;
+  @apply transition ease-in-out duration-300;
+}
+
+.project > h3 {
+  @apply text-xl text-center font-bold flex justify-center items-center gap-1.5;
+}
