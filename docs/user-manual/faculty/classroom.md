@@ -1,5 +1,3 @@
-## Faculty Classroom Management
-
 ### Introduction to Faculty Classroom
 
 The Faculty Classroom Management feature enables faculty members to effectively interact with their students and manage classroom discussions in a structured manner. Each classroom corresponds to a course section, allowing faculty to engage with students through a dedicated communication platform.
