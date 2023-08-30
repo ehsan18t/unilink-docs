@@ -131,6 +131,10 @@
   line-height: 2.5rem
 }
 
+justify {
+  text-align: justify
+}
+
 small {
   font-size: 0.75rem;
   line-height: 1rem

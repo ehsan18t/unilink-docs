@@ -5,6 +5,10 @@
   @apply text-4xl;
 }
 
+justify {
+  @apply text-justify;
+}
+
 small {
   @apply text-xs;
 }
