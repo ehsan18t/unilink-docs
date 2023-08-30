@@ -19,8 +19,7 @@ nav:
       - Faculty Guide:
           - Classroom: user-manual/faculty/classroom.md
           - Forum: user-manual/faculty/forum.md
-      - Student Guide:
-          - Students: user-manual/student/student.md
+      - Student Guide: user-manual/student/student.md
   - Installation:
       - Backend Setup Guide: installation/backend.md
       - Frontend Setup Guide: installation/frontend.md
