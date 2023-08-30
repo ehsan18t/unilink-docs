@@ -14,6 +14,7 @@ nav:
           - Department Management: user-manual/admin/department.md
           - Course Management: user-manual/admin/course.md
           - Section Management: user-manual/admin/section.md
+          - Faculty Management: user-manual/admin/faculty.md
       - Student Guide:
           - Students: user-manual/student/student.md
   - Installation:
