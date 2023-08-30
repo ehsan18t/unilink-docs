@@ -1,5 +1,3 @@
-## Forum Management
-
 ### Creating Categories and Forums
 
 The Forum Management feature allows both administrators and faculty members to create categories and forums to facilitate organized discussions. Categories serve as high-level topics, while forums are specific discussion areas within those categories.
